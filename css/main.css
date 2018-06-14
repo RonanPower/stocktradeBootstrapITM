@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+p {font-family: 'Work Sans', sans-serif;}
+
+h1 h2 h3 h4 h5 h6 {font-family: 'Work Sans', sans-serif;}
+		
+.navbar {background-color: #FCFBFA; z-index: 9999; font-size: 16px; font-family: 'Open Sans', 'Sans Serif';}
+
+.navbar-default .navbar-toggle {color: #4d4d4d !important;  border-color: transparent !important;}
+
+.navbar .navbar-brand {font-weight: bold; font-size: 25px;}
+
+.jumbotron {padding-left: 20px; color: #FFFFFF; font-family: 'Work Sans', sans-serif; background-image: url(../img/bg_stocks.png); background-repeat: no-repeat;  background-size: cover; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+
+.jumbotron h2 {font-family: 'Open Sans', 'Sans Serif'; font-weight: bolder;}
+
+.jumbotron p {font-size: 18px;}
+
+.jumbotron ul {list-style-type: none; font-size: 18px;}
+
+.glyphicon .glyphicon-ok {font-size: 3em;}
+		
+.container-fluid #about {padding-left: 25px;}
+		
+.container-fluid #about h1 {font-family: 'Open Sans', 'Sans Serif';}
+		
+.about-stats {font-size: 4em; list-style-type: none; text-align: center; padding-left: 0px;}
+		
+.customer-reviews-header {text-align: center; outline: solid 1px #4D4D4D;}
+		
+.customer-reviews-header h2 {font-weight: 600; font-family: 'Open Sans', 'Sans Serif'; line-height: 50px;}
+		
+.customer-reviews {font-family: 'Work Sans', sans-serif; list-style-type: none; padding-left: 0px; text-align: center;}
+		
+.customer-reviews h4 {font-size: 1.4em;}
+		
+.customer-reviews .customer-reviews-customer {font-weight: bold;}
+		
+.customer-reviews li {padding-top: 20px;}
+		
+.footer-links {list-style-type: none; padding-left: 20px;}
+		
+.footer-links a {color: #E7E7E7;}
+		
+.follow-us {font-size: 2.5em;}
+		
+.follow-us a {color: #E7E7E7;}
+		
+#footer {background-color: #20B2AA; color: #E7E7E7; list-style-type: none; padding-left: 0px; padding-top: 40px; text-align: center;}
+		
+#about p {font-size: 16px;}
